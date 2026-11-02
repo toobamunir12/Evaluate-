@@ -1,0 +1,46 @@
+query_id,query,relevant_chunk_ids,source_document,source_pdf_page,source_printed_page,category
+Q001,What is the academic period covered by this prospectus?,PDF001_C01,PG-Prospectus-2025-Final.pdf,1,,Document identity and academic year
+Q002,When did UET Mardan begin as a campus of UET Peshawar?,PDF007_C01;PDF007_C02;PDF007_C03;PDF007_C04,PG-Prospectus-2025-Final.pdf,7,6,University history
+Q003,In which year was the Mardan campus upgraded to a full-fledged university?,PDF007_C01;PDF007_C02;PDF007_C03;PDF007_C04,PG-Prospectus-2025-Final.pdf,7,6,University history
+Q004,Which six academic departments are listed by UET Mardan?,PDF007_C01;PDF007_C02;PDF007_C03;PDF007_C04,PG-Prospectus-2025-Final.pdf,7,6,Departments
+Q005,Which body accredits the engineering programs mentioned in the prospectus?,PDF007_C01;PDF007_C02;PDF007_C03;PDF007_C04,PG-Prospectus-2025-Final.pdf,7,6,Accreditation
+Q006,Which council recognizes the BS Computer Science program?,PDF007_C01;PDF007_C02;PDF007_C03;PDF007_C04,PG-Prospectus-2025-Final.pdf,7,6,Accreditation
+Q007,What is the vision statement of UET Mardan?,PDF007_C01;PDF007_C02;PDF007_C03;PDF007_C04,PG-Prospectus-2025-Final.pdf,7,6,Vision and mission
+Q008,What accommodation facilities are described on the UET Mardan campus?,PDF007_C01;PDF007_C02;PDF007_C03;PDF007_C04,PG-Prospectus-2025-Final.pdf,7,6,Campus facilities
+Q009,What sports facilities are mentioned at UET Mardan?,PDF007_C01;PDF007_C02;PDF007_C03;PDF007_C04,PG-Prospectus-2025-Final.pdf,7,6,Campus facilities
+Q010,What medical and emergency facilities does the prospectus describe?,PDF007_C01;PDF007_C02;PDF007_C03;PDF007_C04,PG-Prospectus-2025-Final.pdf,7,6,Campus facilities
+Q011,When was the Department of Computer Software Engineering established?,PDF008_C01;PDF008_C02,PG-Prospectus-2025-Final.pdf,8,7,Department history
+Q012,Which postgraduate programs in Computer Software Engineering are described?,PDF008_C01;PDF008_C02,PG-Prospectus-2025-Final.pdf,8,7,Department programs
+Q013,What research areas are listed for Computer Software Engineering?,PDF009_C01;PDF009_C02,PG-Prospectus-2025-Final.pdf,9,8,Research areas
+Q014,What degree title is offered at master level by Computer Software Engineering?,PDF010_C01,PG-Prospectus-2025-Final.pdf,10,9,Degree title
+Q015,What undergraduate qualifications are listed for admission to MSc Computer Software Engineering?,PDF010_C01,PG-Prospectus-2025-Final.pdf,10,9,Department-specific eligibility
+Q016,What is the minimum general CGPA or annual-system percentage for admission to a master program?,PDF092_C01;PDF092_C02;PDF092_C03,PG-Prospectus-2025-Final.pdf,92,91,Master admission eligibility
+Q017,Which admission test is required for the master program and what minimum score is stated?,PDF092_C01;PDF092_C02;PDF092_C03,PG-Prospectus-2025-Final.pdf,92,91,Master admission test
+Q018,How is the final merit for master admission weighted between the admission test and prior education?,PDF092_C01;PDF092_C02;PDF092_C03,PG-Prospectus-2025-Final.pdf,92,91,Master merit calculation
+Q019,In which semesters does the master degree program commence?,PDF092_C01;PDF092_C02;PDF092_C03,PG-Prospectus-2025-Final.pdf,92,91,Admission schedule
+Q020,When must an application for master admission be submitted?,PDF092_C01;PDF092_C02;PDF092_C03,PG-Prospectus-2025-Final.pdf,92,91,Application deadline rule
+Q021,Can a full-time student at another institution apply for admission under the stated master rules?,PDF093_C01;PDF093_C02;PDF093_C03,PG-Prospectus-2025-Final.pdf,93,92,Admission restrictions
+Q022,When is a candidate admission confirmed?,PDF093_C01;PDF093_C02;PDF093_C03,PG-Prospectus-2025-Final.pdf,93,92,Admission confirmation
+Q023,What does the prospectus say about admission after classes have started?,PDF093_C01;PDF093_C02;PDF093_C03,PG-Prospectus-2025-Final.pdf,93,92,Late admission rule
+Q024,What undertaking must selected master candidates submit at admission?,PDF093_C01;PDF093_C02;PDF093_C03,PG-Prospectus-2025-Final.pdf,93,92,Admission undertaking
+Q025,How is hostel accommodation for master students provided?,PDF093_C01;PDF093_C02;PDF093_C03,PG-Prospectus-2025-Final.pdf,93,92,Hostel accommodation
+Q026,How must foreign student applications be routed?,PDF093_C03,PG-Prospectus-2025-Final.pdf,93,92,Foreign student admission
+Q027,What English language evidence is specified for foreign applicants?,PDF094_C01;PDF094_C02;PDF094_C03,PG-Prospectus-2025-Final.pdf,94,93,Foreign student admission
+Q028,Are foreign students exempted from the entrance test?,PDF094_C01;PDF094_C02;PDF094_C03,PG-Prospectus-2025-Final.pdf,94,93,Foreign student admission
+Q029,How many floating seats are reserved for foreign students in the postgraduate program?,PDF094_C01;PDF094_C02;PDF094_C03,PG-Prospectus-2025-Final.pdf,94,93,Foreign student seats
+Q030,What additional lump-sum amount is stated for foreign students at first-semester admission?,PDF094_C01;PDF094_C02;PDF094_C03,PG-Prospectus-2025-Final.pdf,94,93,Foreign student fee
+Q031,What is the minimum duration of the MSc/MS program?,PDF092_C01;PDF092_C02;PDF092_C03,PG-Prospectus-2025-Final.pdf,92,91,Program duration
+Q032,What total credit hours are required to complete the master degree program?,PDF092_C01;PDF092_C02;PDF092_C03,PG-Prospectus-2025-Final.pdf,92,91,Degree requirements
+Q033,Within what time must a PhD student appear in the qualifying examination after course completion?,PDF104_C01,PG-Prospectus-2025-Final.pdf,104,103,PhD qualifying examination
+Q034,How many attempts are allowed for the PhD qualifying examination?,PDF104_C01,PG-Prospectus-2025-Final.pdf,104,103,PhD qualifying examination
+Q035,What happens if a PhD student fails the qualifying examination twice?,PDF104_C01;PDF104_C02,PG-Prospectus-2025-Final.pdf,104,103,PhD qualifying examination
+Q036,When should a PhD candidate appear in the preliminary proposal defense examination?,PDF104_C02,PG-Prospectus-2025-Final.pdf,104,103,PhD proposal defense
+Q037,How far in advance must a PhD research proposal be submitted before the preliminary examination?,PDF104_C03,PG-Prospectus-2025-Final.pdf,104,103,PhD proposal defense
+Q038,How many times may a PhD thesis be resubmitted after revision?,PDF105_C01;PDF105_C02;PDF105_C03,PG-Prospectus-2025-Final.pdf,105,104,PhD thesis evaluation
+Q039,What must be completed before a PhD thesis defense regarding plagiarism?,PDF105_C01;PDF105_C02;PDF105_C03,PG-Prospectus-2025-Final.pdf,105,104,PhD thesis defense
+Q040,What is the maximum stated monthly teaching assistantship for a PhD student in financial need?,PDF106_C01;PDF106_C02;PDF106_C03,PG-Prospectus-2025-Final.pdf,106,105,PhD funding
+Q041,Which committee handles cases of student indiscipline?,PDF108_C01;PDF108_C02,PG-Prospectus-2025-Final.pdf,108,107,Discipline authority
+Q042,From when do the conduct and discipline rules apply to students?,PDF108_C01;PDF108_C02,PG-Prospectus-2025-Final.pdf,108,107,Discipline applicability
+Q043,"What responsibilities toward teachers, staff, colleagues, and university property are stated for students?",PDF108_C01;PDF108_C02,PG-Prospectus-2025-Final.pdf,108,107,Student responsibilities
+Q044,Within how many days may a student appeal a University Discipline Committee decision?,PDF111_C01;PDF111_C02;PDF111_C03;PDF111_C04,PG-Prospectus-2025-Final.pdf,111,110,Disciplinary appeal
+Q045,Where can a student submit a grievance against a university department or employee?,PDF112_C01;PDF112_C02;PDF112_C03,PG-Prospectus-2025-Final.pdf,112,111,Student grievance procedure

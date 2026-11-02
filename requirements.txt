@@ -1,0 +1,14 @@
+# Direct Python dependencies used by evaluate_embeddings.py
+# Install in a Python 3.10 or 3.11 virtual environment.
+sentence-transformers>=3.0.0
+transformers>=4.51
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+psutil>=5.9
+huggingface-hub>=0.20
+einops        # required by the Nomic Embed v1.5 and v2 MoE models
+
+# sentence-transformers installs PyTorch. For a strictly CPU-only PyTorch
+# wheel, follow the official PyTorch installation selector for your
+# OS/Python version before installing this file.

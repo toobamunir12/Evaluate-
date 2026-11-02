@@ -1,0 +1,123 @@
+query_id,relevant_chunk_id,source_pdf_page,category
+Q001,PDF001_C01,1,Document identity and academic year
+Q002,PDF007_C01,7,University history
+Q002,PDF007_C02,7,University history
+Q002,PDF007_C03,7,University history
+Q002,PDF007_C04,7,University history
+Q003,PDF007_C01,7,University history
+Q003,PDF007_C02,7,University history
+Q003,PDF007_C03,7,University history
+Q003,PDF007_C04,7,University history
+Q004,PDF007_C01,7,Departments
+Q004,PDF007_C02,7,Departments
+Q004,PDF007_C03,7,Departments
+Q004,PDF007_C04,7,Departments
+Q005,PDF007_C01,7,Accreditation
+Q005,PDF007_C02,7,Accreditation
+Q005,PDF007_C03,7,Accreditation
+Q005,PDF007_C04,7,Accreditation
+Q006,PDF007_C01,7,Accreditation
+Q006,PDF007_C02,7,Accreditation
+Q006,PDF007_C03,7,Accreditation
+Q006,PDF007_C04,7,Accreditation
+Q007,PDF007_C01,7,Vision and mission
+Q007,PDF007_C02,7,Vision and mission
+Q007,PDF007_C03,7,Vision and mission
+Q007,PDF007_C04,7,Vision and mission
+Q008,PDF007_C01,7,Campus facilities
+Q008,PDF007_C02,7,Campus facilities
+Q008,PDF007_C03,7,Campus facilities
+Q008,PDF007_C04,7,Campus facilities
+Q009,PDF007_C01,7,Campus facilities
+Q009,PDF007_C02,7,Campus facilities
+Q009,PDF007_C03,7,Campus facilities
+Q009,PDF007_C04,7,Campus facilities
+Q010,PDF007_C01,7,Campus facilities
+Q010,PDF007_C02,7,Campus facilities
+Q010,PDF007_C03,7,Campus facilities
+Q010,PDF007_C04,7,Campus facilities
+Q011,PDF008_C01,8,Department history
+Q011,PDF008_C02,8,Department history
+Q012,PDF008_C01,8,Department programs
+Q012,PDF008_C02,8,Department programs
+Q013,PDF009_C01,9,Research areas
+Q013,PDF009_C02,9,Research areas
+Q014,PDF010_C01,10,Degree title
+Q015,PDF010_C01,10,Department-specific eligibility
+Q016,PDF092_C01,92,Master admission eligibility
+Q016,PDF092_C02,92,Master admission eligibility
+Q016,PDF092_C03,92,Master admission eligibility
+Q017,PDF092_C01,92,Master admission test
+Q017,PDF092_C02,92,Master admission test
+Q017,PDF092_C03,92,Master admission test
+Q018,PDF092_C01,92,Master merit calculation
+Q018,PDF092_C02,92,Master merit calculation
+Q018,PDF092_C03,92,Master merit calculation
+Q019,PDF092_C01,92,Admission schedule
+Q019,PDF092_C02,92,Admission schedule
+Q019,PDF092_C03,92,Admission schedule
+Q020,PDF092_C01,92,Application deadline rule
+Q020,PDF092_C02,92,Application deadline rule
+Q020,PDF092_C03,92,Application deadline rule
+Q021,PDF093_C01,93,Admission restrictions
+Q021,PDF093_C02,93,Admission restrictions
+Q021,PDF093_C03,93,Admission restrictions
+Q022,PDF093_C01,93,Admission confirmation
+Q022,PDF093_C02,93,Admission confirmation
+Q022,PDF093_C03,93,Admission confirmation
+Q023,PDF093_C01,93,Late admission rule
+Q023,PDF093_C02,93,Late admission rule
+Q023,PDF093_C03,93,Late admission rule
+Q024,PDF093_C01,93,Admission undertaking
+Q024,PDF093_C02,93,Admission undertaking
+Q024,PDF093_C03,93,Admission undertaking
+Q025,PDF093_C01,93,Hostel accommodation
+Q025,PDF093_C02,93,Hostel accommodation
+Q025,PDF093_C03,93,Hostel accommodation
+Q026,PDF093_C03,93,Foreign student admission
+Q027,PDF094_C01,94,Foreign student admission
+Q027,PDF094_C02,94,Foreign student admission
+Q027,PDF094_C03,94,Foreign student admission
+Q028,PDF094_C01,94,Foreign student admission
+Q028,PDF094_C02,94,Foreign student admission
+Q028,PDF094_C03,94,Foreign student admission
+Q029,PDF094_C01,94,Foreign student seats
+Q029,PDF094_C02,94,Foreign student seats
+Q029,PDF094_C03,94,Foreign student seats
+Q030,PDF094_C01,94,Foreign student fee
+Q030,PDF094_C02,94,Foreign student fee
+Q030,PDF094_C03,94,Foreign student fee
+Q031,PDF092_C01,92,Program duration
+Q031,PDF092_C02,92,Program duration
+Q031,PDF092_C03,92,Program duration
+Q032,PDF092_C01,92,Degree requirements
+Q032,PDF092_C02,92,Degree requirements
+Q032,PDF092_C03,92,Degree requirements
+Q033,PDF104_C01,104,PhD qualifying examination
+Q034,PDF104_C01,104,PhD qualifying examination
+Q035,PDF104_C01,104,PhD qualifying examination
+Q035,PDF104_C02,104,PhD qualifying examination
+Q036,PDF104_C02,104,PhD proposal defense
+Q037,PDF104_C03,104,PhD proposal defense
+Q038,PDF105_C01,105,PhD thesis evaluation
+Q038,PDF105_C02,105,PhD thesis evaluation
+Q038,PDF105_C03,105,PhD thesis evaluation
+Q039,PDF105_C01,105,PhD thesis defense
+Q039,PDF105_C02,105,PhD thesis defense
+Q039,PDF105_C03,105,PhD thesis defense
+Q040,PDF106_C01,106,PhD funding
+Q040,PDF106_C02,106,PhD funding
+Q040,PDF106_C03,106,PhD funding
+Q041,PDF108_C01,108,Discipline authority
+Q041,PDF108_C02,108,Discipline authority
+Q042,PDF108_C01,108,Discipline applicability
+Q042,PDF108_C02,108,Discipline applicability
+Q043,PDF108_C01,108,Student responsibilities
+Q043,PDF108_C02,108,Student responsibilities
+Q044,PDF111_C01,111,Disciplinary appeal
+Q044,PDF111_C02,111,Disciplinary appeal
+Q044,PDF111_C03,111,Disciplinary appeal
+Q044,PDF111_C04,111,Disciplinary appeal
+Q045,PDF112_C01,112,Student grievance procedure
+Q045,PDF112_C02,112,Student grievance procedure
+Q045,PDF112_C03,112,Student grievance procedure
